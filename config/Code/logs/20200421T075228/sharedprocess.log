@@ -1,0 +1,3 @@
+[2020-04-21 07:52:31.369] [sharedprocess] [info] main {"machineId":"79bd55b895c29b697b4a2665a42a549238ab516b3f59d63b9dfeb84fd0ca8d87","windowId":2}
+[2020-04-21 07:52:31.396] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/rich/.config/Code/User/snippets'
+[2020-04-21 07:53:11.382] [sharedprocess] [info] Starting to clean up unused language packs.

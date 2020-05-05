@@ -1,0 +1,3 @@
+0
+/home/rich/.config/variety/Downloaded/nasa_apod/Eta-HST-ESO-New-LL.jpg
+/home/rich/.config/variety/Downloaded/nasa_apod/AnticrepuscularRays_Patekar_5600.jpg

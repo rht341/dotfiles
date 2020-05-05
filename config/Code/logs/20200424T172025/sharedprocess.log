@@ -1,0 +1,8 @@
+[2020-04-24 17:20:28.776] [sharedprocess] [info] main {"machineId":"79bd55b895c29b697b4a2665a42a549238ab516b3f59d63b9dfeb84fd0ca8d87","windowId":2}
+[2020-04-24 17:20:32.387] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-04-24 17:20:33.239] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/cc4568d2-4386-4e24-b09f-e4bd664916e0
+[2020-04-24 17:20:45.461] [sharedprocess] [info] Extracted extension to /home/rich/.vscode/extensions/.ms-python.python-2020.4.74986: ms-python.python
+[2020-04-24 17:20:45.462] [sharedprocess] [info] Renamed to /home/rich/.vscode/extensions/ms-python.python-2020.4.74986
+[2020-04-24 17:20:45.465] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-04-24 17:20:45.475] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-04-24 17:21:08.782] [sharedprocess] [info] Starting to clean up unused language packs.

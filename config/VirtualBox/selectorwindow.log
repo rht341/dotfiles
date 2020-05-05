@@ -1,0 +1,26 @@
+00:00:00.313509 VirtualBox GUI VM Selector Window 6.1.6 r137129 linux.amd64 (Apr 15 2020 10:13:28) release log
+00:00:00.313512 Log opened 2020-05-04T19:03:26.254557000Z
+00:00:00.313513 Build Type: release
+00:00:00.313516 OS Product: Linux
+00:00:00.313517 OS Release: 5.6.10-arch1-1
+00:00:00.313519 OS Version: #1 SMP PREEMPT Sat, 02 May 2020 19:11:54 +0000
+00:00:00.313542 DMI Product Name: 81SX
+00:00:00.313553 DMI Product Version: Legion Y540-15IRH
+00:00:00.313558 Firmware type: UEFI
+00:00:00.314945 Secure Boot: Disabled
+00:00:00.315003 Host RAM: 15932MB (15.5GB) total, 12956MB (12.6GB) available
+00:00:00.315017 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.315018 Process ID: 43732
+00:00:00.315018 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.315065 Qt version: 5.14.2
+00:00:00.338647 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.832828 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 15x35 x 938x1026
+00:00:00.838231 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:17.354605 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:35.299136 GUI: UIMediumEnumerator: Medium with key={{d3ce2cc2-f7ca-4061-b79b-a7089164b1fe}} created
+00:00:35.405621 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:02.029997 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:02.053626 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:20.426390 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:39.652151 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:46.424279 GUI: UIMediumEnumerator: Medium-enumeration finished!

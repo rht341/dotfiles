@@ -1,0 +1,43 @@
+ 
+New instance of bashtop version: 0.8.15 Pid: 25470
+df: /run/user/1000/doc: Operation not permitted
+07:56:51 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+07:57:02 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+07:57:13 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+07:57:30 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+07:57:41 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+07:57:54 AM ERROR: On line 1473 
+ 
+New instance of bashtop version: 0.8.15 Pid: 28010
+df: /run/user/1000/doc: Operation not permitted
+10:27:19 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:27:30 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:27:43 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:27:56 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:28:08 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:28:21 AM ERROR: On line 1473 
+grep: Invalid regular expression
+grep: Invalid regular expression
+grep: Unmatched [, [^, [:, [., or [=
+grep: Unmatched [, [^, [:, [., or [=
+grep: Unmatched [, [^, [:, [., or [=
+grep: Invalid regular expression
+grep: Invalid regular expression
+df: /run/user/1000/doc: Operation not permitted
+10:28:34 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:28:46 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:28:59 AM ERROR: On line 1473 
+df: /run/user/1000/doc: Operation not permitted
+10:29:12 AM ERROR: On line 1473 
