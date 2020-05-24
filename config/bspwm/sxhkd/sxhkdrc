@@ -97,9 +97,9 @@ super + v
 super + m
     pragha
 
-#Termite
+#Alacritty
 super + Return
-    termite
+    alacritty
 
 #Xkill
 super + Escape
