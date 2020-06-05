@@ -48,32 +48,10 @@ Plug 'dkarter/bullets.vim'
 
 Plug 'vim-syntastic/syntastic'
 
-Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
-
-Plug 'elzr/vim-json'
-
 " Entertainment
 "Plug 'ryanss/vim-hackernews'
 
 call plug#end()
-
- " Vim Hexokinase
-  let g:Hexokinase_refreshEvents = ['InsertLeave']
-
-  let g:Hexokinase_optInPatterns = [
-  \     'full_hex',
-  \     'triple_hex',
-  \     'rgb',
-  \     'rgba',
-  \     'hsl',
-  \     'hsla',
-  \     'colour_names'
-  \ ]
-
-  let g:Hexokinase_highlighters = ['backgroundfull']
-
-  " Reenable hexokinase on enter
-  autocmd VimEnter * HexokinaseTurnOn
 
 """ Python3 VirtualEnv
 let g:python3_host_prog = expand('~/.config/nvim/env/bin/python')
@@ -102,7 +80,7 @@ set list listchars=trail:»,tab:»-
 set fillchars+=vert:\ 
 set wrap breakindent
 set encoding=utf-8
-set number relativenumber
+set number
 set title
 
 """ Plugin Configurations
